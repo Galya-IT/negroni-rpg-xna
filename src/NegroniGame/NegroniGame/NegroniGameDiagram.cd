@@ -1,0 +1,444 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1" MembersFormat="NameAndType">
+  <Class Name="NegroniGame.Items.Armor.Armor" Collapsed="true">
+    <Position X="13.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAQEAAAEAAAAAAIAAgAEAAI=</HashCode>
+      <FileName>Items\Armor\Armor.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="NegroniGame.Items.Armor.MajesticBoots" Collapsed="true">
+    <Position X="11.25" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Items\Armor\MajesticBoots.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="NegroniGame.Items.Armor.MajesticGloves" Collapsed="true">
+    <Position X="15.75" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Items\Armor\MajesticGloves.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="NegroniGame.Items.Armor.MajesticHelmet" Collapsed="true">
+    <Position X="18" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Items\Armor\MajesticHelmet.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="NegroniGame.Items.Armor.MajesticRobe" Collapsed="true">
+    <Position X="9" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Items\Armor\MajesticRobe.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="NegroniGame.Items.Armor.MajesticShield" Collapsed="true">
+    <Position X="13.5" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Items\Armor\MajesticShield.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="NegroniGame.Items.Weapon.Weapon" Collapsed="true">
+    <Position X="21.75" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAQEAIAEAACAAAIAAAAEAAA=</HashCode>
+      <FileName>Items\Weapon\Weapon.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="NegroniGame.Items.Weapon.NewbieStaff" Collapsed="true">
+    <Position X="20.5" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Items\Weapon\NewbieStaff.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="NegroniGame.Items.Weapon.MysticStaff" Collapsed="true">
+    <Position X="22.75" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Items\Weapon\MysticStaff.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="NegroniGame.Monsters.Bug" Collapsed="true">
+    <Position X="6.75" Y="6.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Monsters\Bug.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="NegroniGame.Monsters.Genie" Collapsed="true">
+    <Position X="11.25" Y="6.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Monsters\Genie.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="NegroniGame.Monsters.GreenOne" Collapsed="true">
+    <Position X="15.75" Y="6.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Monsters\GreenOne.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="NegroniGame.Monsters.Monster" Collapsed="true">
+    <Position X="12.25" Y="5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AQQAGACEgBAAigAQQAAgAAQAYMAEABAIIAxAAiBAKgA=</HashCode>
+      <FileName>Monsters\Monster.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="NegroniGame.Monsters.PurpleBat" Collapsed="true">
+    <Position X="18" Y="6.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Monsters\PurpleBat.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="NegroniGame.Monsters.RedDragon" Collapsed="true">
+    <Position X="9" Y="6.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Monsters\RedDragon.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="NegroniGame.Monsters.Viking" Collapsed="true">
+    <Position X="13.5" Y="6.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Monsters\Viking.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="NegroniGame.SystemFunctions.Sprite" Collapsed="true">
+    <Position X="13.5" Y="10.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AgIAEAAIAAAAAgAAAAAAIAAAAAAAAgAIAAAAAAAAAIA=</HashCode>
+      <FileName>SystemFunctions\Sprite.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="NegroniGame.Toolbar.HP" Collapsed="true">
+    <Position X="17.5" Y="8.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAAAAAAgAAAAAAIAAAAAFAAAAAQAAABAAAAAA=</HashCode>
+      <FileName>Toolbar\HP.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="NegroniGame.Toolbar.InventorySlots" Collapsed="true">
+    <Position X="17.5" Y="10.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>SQQAgIQAQYgJghAAAEEAAAAAIwFSCEAAQAQBAAACAAA=</HashCode>
+      <FileName>Toolbar\InventorySlots.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="NegroniGame.Toolbar.SystemMsg" Collapsed="true">
+    <Position X="17.5" Y="9.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AABAAAAIAEAAAAEAAAAAAAAAAABAAAAAQQAAAAICAIA=</HashCode>
+      <FileName>Toolbar\SystemMsg.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="NegroniGame.Drop" Collapsed="true">
+    <Position X="13.5" Y="9.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>QAQAAAAAAJAAAgEAAAAAAASIAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Drop.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="NegroniGame.EntryPoint" Collapsed="true">
+    <Position X="15.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>EntryPoint.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="NegroniGame.InfoBoxes" Collapsed="true">
+    <Position X="15.5" Y="10.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAIAAAEAAkAEAAWgIAEAAABAJDAAQIACABCiCAA=</HashCode>
+      <FileName>InfoBoxes.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="NegroniGame.MarketDialog" Collapsed="true">
+    <Position X="15.5" Y="8.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EANAjEAAAJAAAqAIgCAiAgMCABFQEECEUUAgAQCAAQA=</HashCode>
+      <FileName>MarketDialog.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="NegroniGame.Player" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="2.75" Y="10.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAShMAACOaEAUwIAECgBCBAAARB4BAgAYCAAgSABgwI=</HashCode>
+      <FileName>Player.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.152" Collapsed="true" />
+  </Class>
+  <Class Name="NegroniGame.Shot" Collapsed="true">
+    <Position X="13.5" Y="8.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQBAIAEAAAAZgAAAAAAAAAAgAAAAAAQAAAAAAAAAIE=</HashCode>
+      <FileName>Shot.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="NegroniGame.Well" Collapsed="true">
+    <Position X="15.5" Y="9.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAwAAAAAAABAEgAAAAAAAAAAAABAAAAAQAAAAAAABAA=</HashCode>
+      <FileName>Well.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="NegroniGame.GameScreen" Collapsed="true">
+    <Position X="17.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQUuCgiQUQKgwIBAYAwAAQakADAAUoAQCAKCEAgKAQ=</HashCode>
+      <FileName>GameScreen.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="NegroniGame.SystemFunctions.Exceptions.InvalidAmountException" Collapsed="true">
+    <Position X="20" Y="10" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACAAAAAgA=</HashCode>
+      <FileName>SystemFunctions\Exceptions\InvalidAmountException.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="NegroniGame.SystemFunctions.Exceptions.InvalidNameException" Collapsed="true">
+    <Position X="20" Y="9" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACAAAAAgA=</HashCode>
+      <FileName>SystemFunctions\Exceptions\InvalidNameException.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="NegroniGame.Handlers.DropHandler" Collapsed="true">
+    <Position X="20.75" Y="4.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAACAAAAgAAAAAAAAAACABAAAIAQAAAAAAAAAA=</HashCode>
+      <FileName>Handlers\DropHandler.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="NegroniGame.Handlers.ElixirsHandler" Collapsed="true">
+    <Position X="22.5" Y="4.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQQAAAAAAAAEAQAAAAAAAAAAABAAAAAQAAEAAAAAAA=</HashCode>
+      <FileName>Handlers\ElixirsHandler.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="NegroniGame.Handlers.GameOverHandler" Collapsed="true">
+    <Position X="24.25" Y="4.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQCAAAAAAAAAgAAAAAAAAAAAABAAAAAQAAAAAAAAAA=</HashCode>
+      <FileName>Handlers\GameOverHandler.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="NegroniGame.Handlers.MarketDialogHandler" Collapsed="true">
+    <Position X="20.75" Y="5.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAQAAAAAgAAAAAAAAAAAABAAAAAQAAAAAAAAAA=</HashCode>
+      <FileName>Handlers\MarketDialogHandler.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="NegroniGame.Handlers.MonstersHandler" Collapsed="true">
+    <Position X="22.5" Y="5.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAEIEAAAABAoAAgAAQIAAAAABAAAAAQAAAAAAQAAA=</HashCode>
+      <FileName>Handlers\MonstersHandler.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="NegroniGame.Handlers.NpcHelperHandler" Collapsed="true">
+    <Position X="24.25" Y="5.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAEAAgAAAAgAwAAABAAAAAAAAAAAAAAAAAAABAAg=</HashCode>
+      <FileName>Handlers\NpcHelperHandler.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="NegroniGame.Handlers.SceneryHandler" Collapsed="true">
+    <Position X="20.75" Y="6.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAIAAAAAAAgAAAAAAAAAAAABAAAAAQAAAQAQQAAA=</HashCode>
+      <FileName>Handlers\SceneryHandler.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="NegroniGame.Handlers.ShotsHandler" Collapsed="true">
+    <Position X="22.5" Y="6.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAACAEAAAAAgAAAAEAAAAAAAFAAAAAQAAAAAAAAAA=</HashCode>
+      <FileName>Handlers\ShotsHandler.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="NegroniGame.SystemFunctions.Animation" Collapsed="true">
+    <Position X="8.5" Y="11.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>BASCAAAAACAAAgAgEAAAIABAAGAAAAAAAAAgAQAAAAA=</HashCode>
+      <FileName>SystemFunctions\Animation.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="NegroniGame.SystemFunctions.SpriteObject" Collapsed="true">
+    <Position X="8.5" Y="8" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAAAAAAgAgEAAAIBQAQAAEABAAAAAAIQAAAAA=</HashCode>
+      <FileName>SystemFunctions\SpriteObject.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="NegroniGame.SystemFunctions.SpriteObjectAnime" Collapsed="true">
+    <Position X="8.5" Y="9" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>SystemFunctions\SpriteObjectAnime.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="NegroniGame.FireBall" Collapsed="true">
+    <Position X="8.5" Y="10.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAkAAAAgAAIAAAAAAAAAAYAAAAAAQAAAAAAAA=</HashCode>
+      <FileName>FireBall.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="NegroniGame.NpcHelper" Collapsed="true">
+    <Position X="4.75" Y="10.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAgAAAAwAAAAAAABAAAABaAAAAQAAAAAAAAAA=</HashCode>
+      <FileName>NpcHelper.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="NegroniGame.NpcSorcerer" Collapsed="true">
+    <Position X="6.75" Y="10.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAAQAAAwAAAAAAABAAAABYAAAAQAAAAAAAAAA=</HashCode>
+      <FileName>NpcSorcerer.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="NegroniGame.GameSettings" Collapsed="true">
+    <Position X="19.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ABAgAAAACAIAAAAAAEgBAFAAAIAAgAAAAAACIBAACEA=</HashCode>
+      <FileName>GameSettings.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Struct Name="NegroniGame.Items.ElixirsHP" Collapsed="true">
+    <Position X="25" Y="1.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAABAAAAAQEAAAEAAAAAAIAAAAEAAA=</HashCode>
+      <FileName>Items\ElixirsHP.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Struct>
+  <Struct Name="NegroniGame.Items.Coins" Collapsed="true">
+    <Position X="25" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAACAAAAAgAAAAAIAAAAAAAA=</HashCode>
+      <FileName>Items\Coins.cs</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Interface Name="NegroniGame.Interfaces.IArmor" Collapsed="true">
+    <Position X="5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAgAAAAA=</HashCode>
+      <FileName>Interfaces\IArmor.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="NegroniGame.Interfaces.IBoots" Collapsed="true">
+    <Position X="2.25" Y="5.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Interfaces\IBoots.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="NegroniGame.Interfaces.IGloves" Collapsed="true">
+    <Position X="2.25" Y="6.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Interfaces\IGloves.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="NegroniGame.Interfaces.IHelmet" Collapsed="true">
+    <Position X="2.25" Y="7.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Interfaces\IHelmet.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="NegroniGame.Interfaces.IItem" Collapsed="true">
+    <Position X="6" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAQEAAAAAAAAAAIAAAAAAAA=</HashCode>
+      <FileName>Interfaces\IItem.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="NegroniGame.Interfaces.IMonster" Collapsed="true">
+    <Position X="12.25" Y="4.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAACAAAAA=</HashCode>
+      <FileName>Interfaces\IMonster.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="NegroniGame.Interfaces.IPlayer" Collapsed="true">
+    <Position X="2.75" Y="9.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Interfaces\IPlayer.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="NegroniGame.Interfaces.IRobe" Collapsed="true">
+    <Position X="2.25" Y="4.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Interfaces\IRobe.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="NegroniGame.Interfaces.IShield" Collapsed="true">
+    <Position X="2.25" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Interfaces\IShield.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="NegroniGame.Interfaces.IWeapon" Collapsed="true">
+    <Position X="2.5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Interfaces\IWeapon.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="NegroniGame.Interfaces.ImPlayer" Collapsed="true">
+    <Position X="0.5" Y="9.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Interfaces\ImPlayer.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="NegroniGame.Interfaces.IReact" Collapsed="true">
+    <Position X="0.5" Y="10.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Interfaces\IReact.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Enum Name="NegroniGame.SystemFunctions.DirectionsEnum" Collapsed="true">
+    <Position X="20" Y="8.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AACAAAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAABAAQ=</HashCode>
+      <FileName>SystemFunctions\DirectionsEnum.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Font Name="Tahoma" Size="8.25" />
+</ClassDiagram>
